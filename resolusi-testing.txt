@@ -1,0 +1,33 @@
+Apa Itu GitHub?
+GitHub adalah platform berbasis web yang digunakan untuk mengelola dan menyimpan kode sumber menggunakan sistem Git. GitHub memungkinkan pengembang untuk berkolaborasi dalam mengembangkan perangkat lunak, melacak perubahan dalam kode, serta mengelola versi proyek dengan lebih mudah.
+
+Fitur Utama GitHub
+Repository (Repo)
+Repository adalah tempat penyimpanan proyek yang berisi kode sumber, file dokumentasi, dan riwayat perubahan yang dilakukan oleh pengembang.
+
+Branching dan Merging
+
+Branch memungkinkan pengembang untuk bekerja pada fitur baru atau perbaikan tanpa mengganggu kode utama.
+Merge digunakan untuk menggabungkan perubahan dari branch ke branch utama (biasanya main atau master).
+Pull Request (PR)
+Pull Request adalah fitur yang memungkinkan pengembang mengajukan perubahan pada kode agar dapat ditinjau dan digabungkan ke dalam branch utama oleh tim pengembang lainnya.
+
+Issue Tracking
+GitHub memiliki fitur "Issues" yang berfungsi sebagai sistem pelacakan bug, diskusi, dan manajemen tugas dalam proyek.
+
+GitHub Actions
+Fitur ini memungkinkan otomatisasi alur kerja seperti pengujian kode, build aplikasi, dan deployment ke server.
+
+Forking
+Fork adalah proses menyalin repository orang lain ke akun kita sendiri, sehingga kita bisa mengembangkan proyek tanpa mengubah repository aslinya.
+
+Collaboration & Open Source
+GitHub memudahkan pengembang dari seluruh dunia untuk berkontribusi dalam proyek open-source, memberikan feedback, dan mengembangkan perangkat lunak secara kolaboratif.
+
+Mengapa Menggunakan GitHub?
+Version Control: Memudahkan pelacakan perubahan dalam kode.
+Kolaborasi: Tim dapat bekerja bersama dalam satu proyek dengan sistem yang tertata.
+Keamanan & Backup: Kode tersimpan dengan aman di cloud.
+Integrasi dengan Tools Lain: GitHub dapat dihubungkan dengan layanan seperti CI/CD, manajemen proyek, dan layanan cloud.
+Kesimpulan
+GitHub adalah platform yang sangat penting bagi pengembang perangkat lunak, baik pemula maupun profesional. Dengan fitur-fitur seperti version control, kolaborasi, dan otomatisasi, GitHub membantu mempermudah pengelolaan proyek dan meningkatkan efisiensi pengembangan perangkat lunak.
